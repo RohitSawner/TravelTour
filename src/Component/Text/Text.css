@@ -1,0 +1,24 @@
+.middle{
+   height: 100%;
+    background-color:bisque;
+    background-position: fixed;
+}
+.head{
+   height: 100%;
+   width: 100%;
+}
+.head h5{
+    margin-top: 30px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.head p{
+    margin-top: 10px;
+    font-size: 0.8rem;
+    font-weight: 200;
+    font-style: italic;
+    font-family: sans-serif;
+    text-align: center;
+}

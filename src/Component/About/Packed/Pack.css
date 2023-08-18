@@ -1,0 +1,24 @@
+
+.adj{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height:500px
+}
+.super{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    background-position: fixed;
+}
+.deatils h5{
+    height: 100%;
+    width: 100%;
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-weight: 800;
+    color: #fff;
+}
+.card-img-top{
+    height: 300px;
+    width: 100%;
+}

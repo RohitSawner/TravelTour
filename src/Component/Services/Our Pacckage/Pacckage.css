@@ -1,0 +1,26 @@
+.travel{
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    background-color: brown;
+    background-position: fixed;
+}
+.deatils h5{
+height: 100%;
+width: 100%;
+font-size: 2rem;
+font-weight: 700;
+}
+.cap p{
+    margin-top: 1.5rem;
+    font: 1em sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+}
+.mal{
+    height:"380px";
+    width:"300px";
+    text-align: center;
+    margin: 1rem 2rem;
+    box-shadow: 1px solid black;  
+}
